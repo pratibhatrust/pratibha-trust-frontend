@@ -47,11 +47,6 @@ export default function VisionComponent() {
             <li>Chemotherapy Treatments</li>
             <li>Immunotherapy</li>
           </ul>
-          <div className="mt-4 text-sm text-gray-700 font-medium leading-relaxed">
-            <p><strong>⚠ ATTENTION:</strong> No branch / No crowd collection out of Delhi.</p>
-            <p>Pratibha Secure Trust declares that no volunteer or employee has been appointed to collect donations for cancer patients outside Delhi.</p>
-            <p>We do not have any other official branches apart from our central office located in Delhi. Please be cautious of fraud.</p>
-          </div>
         </div>
         </DivWrapper>
       </section>
