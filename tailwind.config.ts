@@ -12,6 +12,13 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      backgroundImage: {
+        logo: "url('/images/logo.jpeg')", 
+      },
+      fontFamily: {
+        montserrat: ["var(--font-montserrat)"],
+        poppins: ["var(--font-poppins)"],
+      }
     },
   },
   plugins: [],
